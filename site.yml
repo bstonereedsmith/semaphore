@@ -4,4 +4,4 @@
    tasks:
      - name: Print OS info
        ansible.builtin.pakage:
-       name:wget
+       name: wget
